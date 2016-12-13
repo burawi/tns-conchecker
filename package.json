@@ -1,0 +1,30 @@
+{
+  "name": "tns-conchecker",
+  "version": "0.0.1",
+  "description": "connectivity checker helpers for nativescript",
+  "main": "index.js",
+  "nativescript": {
+      "platforms": {
+          "ios": "1.0.0",
+          "android": "1.1.0"
+      }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burawi/tns-conchecker.git"
+  },
+  "keywords": [
+    "connectivity",
+    "nativescript",
+    "tns"
+  ],
+  "author": "Abu Rawi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/burawi/tns-conchecker/issues"
+  },
+  "homepage": "https://github.com/burawi/tns-conchecker#readme"
+}
